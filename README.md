@@ -1,3 +1,3 @@
 # 6100-Project-Two
 Ernest &amp; Stephanie Project
-We can leave any comments or any extra steps needed for installations in case our python installations are not matching. We could also leave the comments when we do pushes
+This project is an Insurance Purchase Prediction Model. A model that predicts whether the customers will buy the car insurance or not. 
